@@ -1,0 +1,32 @@
+/maelstrom/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder metadata
+._*
+
+# macOS Spotlight
+.Spotlight-V100
+.Trashes
+
+# macOS volume settings
+.VolumeIcon.icns
+.Icon?
+
+# macOS resource fork files
+*.AppleDouble
+*.DS_Store
+
+# Go build artifacts
+/bin/
+/pkg/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
